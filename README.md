@@ -1,2 +1,2 @@
 # dexnode-minerpool
-dexnode mining pool
+dexnode mining pool (beta)
