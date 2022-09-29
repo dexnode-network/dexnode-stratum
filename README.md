@@ -1,2 +1,2 @@
-# dexnode-pool
-dexnode mining pool (beta)
+# dexnode-stratum
+dexnode stratum server
